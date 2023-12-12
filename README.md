@@ -14,8 +14,6 @@ In this project, we will build a end-to-end data pipeline for a movie recommenda
     * [Data access](#data-access)
 * [Prerequisites](#prerequisites)
 * [References](#references)
-* [Demo](#demo)
-* [Contact](#contact)
 
 ## Architecture diagram
 
